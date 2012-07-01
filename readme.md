@@ -5,13 +5,15 @@ tracking code.  Yes, there are a number of other good plugins out there for
 adding Google Analytics to your site.  This one is extremely minimal, with no
 extra frills.
 
+
 ## Configuration ##
 
-The plugin provides no UI for configuring it.  Instead, you must defined a PHP
+The plugin provides no UI for configuring it.  Instead, you must define a PHP
 constant named `GOOGLE_ANALYTICS_ID`.  This is most easily done by adding a
 snippet like the following to your wp-config.php file:
 
     define('GOOGLE_ANALYTICS_ID', 'UA-XXXXXX-X');
+
 
 ## Questions ##
 
