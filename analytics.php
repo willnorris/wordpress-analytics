@@ -4,6 +4,8 @@ Plugin Name: Google Analytics
 Description: Minimal plugin for adding Google Analytics tracking code.
 Author: Will Norris
 Author URI: http://willnorris.com/
+License: Apache 2.0
+License URI: https://www.apache.org/licenses/LICENSE-2.0
 */
 
 /**
